@@ -117,7 +117,7 @@
 				<td style="vertical-align : middle;text-align:center"> Tidak Laik</td>
 				<td style="vertical-align : middle;text-align:center"> Jumlah</td>
                 <td style="vertical-align : middle;text-align:center"> Layak</td>
-				<td style="vertical-align : middle;text-align:center"> Layak Dengan Catatan</td>
+				<td style="vertical-align : middle;text-align:center"> Laik dengan Catatan</td>
                 <td style="vertical-align : middle;text-align:center"> Tidak Layak</td>
 				<td style="vertical-align : middle;text-align:center"> Jumlah</td>
            </tr>
