@@ -54,12 +54,7 @@
                 <input type="text" name="laik" class="form-control" value="<?php echo $item->laik; ?>">
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12">
-            <div class="form-group">
-                <strong>Bus dengan Catatan:</strong>
-                <input type="text" name="catatan" class="form-control" value="<?php echo $item->catatan; ?>">
-            </div>
-        </div>
+        
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Bus Tidak Laik:</strong>
@@ -78,12 +73,7 @@
                 <input type="text" name="positive" class="form-control" value="<?php echo $item->positive; ?>">
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12">
-            <div class="form-group">
-                <strong>Pengemudi Laik Dengan Catatan</strong>
-                <input type="text" name="l_catatan" class="form-control" value="<?php echo $item->l_catatan; ?>">
-            </div>
-        </div>
+       
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
                 <strong>Tidak Laik Test</strong>

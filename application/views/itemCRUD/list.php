@@ -46,7 +46,7 @@ div.container {
             <th rowspan="2" style="vertical-align : middle;text-align:center" scope="col">Tanggal</th>
             <th colspan="2" style="vertical-align : middle;text-align:center" scope="col">Keberangkatan</th>
             <th colspan="2" style="vertical-align : middle;text-align:center" scope="col">Kedatangan</th>
-            <th colspan="4" style="vertical-align : middle;text-align:center" scope="col">Rampcheck</th>
+            <th colspan="3" style="vertical-align : middle;text-align:center" scope="col">Rampcheck</th>
             <th colspan="4" style="vertical-align : middle;text-align:center" scope="col">Test Pengemudi</th>
             <th rowspan="2" style="vertical-align : middle;text-align:center" scope="col">Action</th>
 		   
@@ -57,7 +57,6 @@ div.container {
 				<td style="vertical-align : middle;text-align:center"> BUS</td>
 				<td style="vertical-align : middle;text-align:center" > PNP</td>
 				<td style="vertical-align : middle;text-align:center"> Laik</td>
-				<td style="vertical-align : middle;text-align:center"> Laik dengan Catatan</td>
 				<td style="vertical-align : middle;text-align:center"> Tidak Laik</td>
 				<td style="vertical-align : middle;text-align:center"> Jumlah</td>
                 <td style="vertical-align : middle;text-align:center"> Layak</td>
@@ -76,7 +75,6 @@ div.container {
             <td><?php echo $item->bus_datang; ?></td>
             <td><?php echo $item->pnp_datang; ?></td>
             <td><?php echo $item->laik; ?></td>
-            <td><?php echo $item->catatan; ?></td>
             <td><?php echo $item->tidak_laik; ?></td>
             <td><?php echo $item->jumlah_rampcheck; ?></td>
             <td><?php echo $item->positive; ?></td>
